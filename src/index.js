@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import '/Users/mikiminach/applis/react-app/src/index.css';
+import './index.css';
 
 function Square(props) {
   return (
